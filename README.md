@@ -17,3 +17,14 @@ To run the Mail Project locally:
 4. Apply migrations by running the following command:
    ```bash
    python manage.py migrate
+5. Start the development server with the following command:
+   ```python manage.py runserver
+6. Open your web browser and visit http://localhost:8000 to access the Mail Project.
+
+## Credits
+This project statement was developed as part of the CS50W course Harvard University. Credits go to the course instructors and the CS50 team for their guidance and support.
+
+## License
+The Mail Project is open-source software licensed under the MIT License. Feel free to use, modify, and distribute this project following the terms of the license.
+
+
