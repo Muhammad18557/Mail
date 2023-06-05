@@ -18,7 +18,8 @@ To run the Mail Project locally:
    ```bash
    python manage.py migrate
 5. Start the development server with the following command:
-   ```python manage.py runserver
+   ```bash
+   python manage.py runserver
 6. Open your web browser and visit http://localhost:8000 to access the Mail Project.
 
 ## Credits
